@@ -1,0 +1,1 @@
+-- synthetic step s3: add column spike_col_3

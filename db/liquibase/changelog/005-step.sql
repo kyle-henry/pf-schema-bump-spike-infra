@@ -1,0 +1,1 @@
+-- synthetic step s5: add column spike_col_5

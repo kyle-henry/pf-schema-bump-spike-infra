@@ -1,0 +1,2 @@
+databaseChangeLog:
+  - include: { file: 000-baseline.sql, relativeToChangelogFile: true }

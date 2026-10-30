@@ -1,2 +1,3 @@
 databaseChangeLog:
   - include: { file: 000-baseline.sql, relativeToChangelogFile: true }
+  - include: { file: 001-step.sql, relativeToChangelogFile: true }
